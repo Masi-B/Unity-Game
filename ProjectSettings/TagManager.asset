@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Spike1
+  - Stones
+  - MovingPlatform1
+  - Star
+  - Platform
+  - KeyItem
+  - slide
+  - MovingPlatform2
+  - MovingPlatform3
+  - MovingPlatform4
+  - bossFireBalls
+  - KnifeAttack
+  - ShakeCamera
+  - Enemy
+  - Edge
+  - EnemyProjectile
+  - DestructionSound
+  - Level2Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
